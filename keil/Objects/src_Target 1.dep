@@ -1,0 +1,22 @@
+Dependencies for Project 'src', Target 'Target 1': (DO NOT MODIFY !)
+F (.\src.c)(0x6005D60C)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I C:\Users\asus\Desktop\MAIN\test\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F401xE-o .\objects\src.o --omf_browse .\objects\src.crf --depend .\objects\src.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x564465C0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h)(0x564465C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x55097B4C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C28500)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55097B4C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55097B4C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x55097B4C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x564465BE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C28500)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x54C28500)
+F (RTE\Device\STM32F401RETx\startup_stm32f401xe.s)(0x564465BE)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Users\asus\Desktop\MAIN\test\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 515" --pd "_RTE_ SETA 1" --pd "STM32F401xE SETA 1"--list .\listings\startup_stm32f401xe.lst --xref -o .\objects\startup_stm32f401xe.o --depend .\objects\startup_stm32f401xe.d)
+F (RTE\Device\STM32F401RETx\system_stm32f4xx.c)(0x564465BE)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I C:\Users\asus\Desktop\MAIN\test\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F401xE-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x564465C0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h)(0x564465C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x55097B4C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C28500)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55097B4C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55097B4C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x55097B4C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x564465BE)
